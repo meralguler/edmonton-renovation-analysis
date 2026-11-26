@@ -127,6 +127,13 @@ The program prints exploratory counts and neighbourhood comparisons in the termi
 - Build visualizations and an Excel dashboard after validating the methodology.
 - Summarize conclusions and limitations in an evidence-based business report.
 
+## Data Visualization
+
+The chart below shows the 10 Edmonton neighbourhoods with the highest number of renovation-related permit records between 2023 and 2025.
+
+![Top 10 Edmonton Neighbourhoods](figures/top10_neighbourhoods.png)
+
+Note: These figures represent permit records identified using renovation-related keywords, not confirmed renovation projects or business revenue.
 ## Author
 
 **Meral Guler**
