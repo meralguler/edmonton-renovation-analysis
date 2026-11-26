@@ -133,6 +133,12 @@ The chart below shows the 10 Edmonton neighbourhoods with the highest number of 
 
 ![Top 10 Edmonton Neighbourhoods](figures/top10_neighbourhoods.png)
 
+### Laurel vs. Chappelle: Yearly Trends (2023–2025)
+
+The following chart compares annual renovation-related permit records in Laurel and Chappelle.
+
+![Laurel and Chappelle Yearly Trends](figures/laurel_chappelle_yearly_trends.png)
+
 Note: These figures represent permit records identified using renovation-related keywords, not confirmed renovation projects or business revenue.
 ## Author
 
