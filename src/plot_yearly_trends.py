@@ -27,6 +27,13 @@ yearly = selected.groupby(
 ).size().unstack(fill_value=0)
 
 print(yearly)
+percentage_change = yearly.pct_change() * 100
+
+print("\nYear-over-Year Percentage Change (%):")
+print(percentage_change.round(1))
+
+
+percentage_change.round(1).to_csv("data/yearly_percentage_change.csv")
 
 plt.figure(figsize=(10, 6))
 

@@ -140,6 +140,42 @@ The following chart compares annual renovation-related permit records in Laurel 
 ![Laurel and Chappelle Yearly Trends](figures/laurel_chappelle_yearly_trends.png)
 
 Note: These figures represent permit records identified using renovation-related keywords, not confirmed renovation projects or business revenue.
+
+## Business Insights: Laurel vs. Chappelle (2023–2025)
+
+### Key Findings
+
+The analysis compares renovation-related building permit records in two Edmonton neighbourhoods: Laurel and Chappelle.
+
+**Laurel**
+- 2023: 95 permit records
+- 2024: 151 permit records (+58.9%)
+- 2025: 71 permit records (-53.0%)
+
+Laurel experienced substantial fluctuations during the selected period. Permit records increased sharply in 2024 before declining in 2025.
+
+**Chappelle**
+- 2023: 73 permit records
+- 2024: 83 permit records (+13.7%)
+- 2025: 75 permit records (-9.6%)
+
+Chappelle showed smaller year-over-year changes, suggesting relatively stable permit activity during this three-year period.
+
+### Business Implications
+
+Laurel recorded more renovation-related permits overall, but its annual activity fluctuated considerably.
+
+Chappelle showed more consistent permit counts, which may warrant further investigation by businesses seeking areas with steadier activity.
+
+These findings can help identify neighbourhoods for additional market research, but they are not sufficient to determine business profitability or future renovation demand.
+
+### Limitations
+
+The analysis uses permit descriptions containing renovation-related keywords. These records are not verified renovation projects and do not directly measure customer demand, project value, business revenue, or profitability.
+
+The comparison also covers only three years. Further research is needed before making investment or business expansion decisions.
+
+
 ## Author
 
 **Meral Guler**
